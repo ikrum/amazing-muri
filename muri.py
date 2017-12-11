@@ -6,3 +6,5 @@ if wants_muri:
 	print("Here you go!")
 else:
 	print("Only Muri is real")
+
+print("Muri is new Orange")
