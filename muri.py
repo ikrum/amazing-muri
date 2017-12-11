@@ -7,4 +7,4 @@ if wants_muri:
 else:
 	print("Only Muri is real")
 
-print("Muri is new Orange")
+print("Something Else")
